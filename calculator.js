@@ -10,11 +10,11 @@ function onReady() {
 
 function onSubmit() {
     event.preventDefault();
-    let firstNameInput = $('#firstname-input').val();
-    let lastNameInput = $('#lastname-input').val();
-    let idInput = $('#id-input').val();
-    let titleInput = $('#title-input').val();
-    let salaryInput = $('#salary-input').val();
+    let firstNameInput = $('#firstname-input').val('');
+    let lastNameInput = $('#lastname-input').val('');
+    let idInput = $('#id-input').val('');
+    let titleInput = $('#title-input').val('');
+    let salaryInput = $('#salary-input').val('');
 
 
     $('#tbody').append(`
