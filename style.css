@@ -1,3 +1,48 @@
 .over-budget-background{
     background-color: red;
 }
+
+.title {
+    color: white;
+    text-align: center;
+    background-color: maroon;
+    font-size: large;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.info-input-css {
+    border-radius: 10px;
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.employees-css{
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(255, 69, 178);
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.tr-css{
+    margin: auto;
+    border-style: dashed;
+    text-align: center;
+    background-color: rgb(247, 255, 255);
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.th-css{
+    margin: auto;
+    border-style: double;
+    text-align: center;
+    background-color: rgb(247, 255, 255);
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
